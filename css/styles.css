@@ -76,9 +76,7 @@ a {
 }
 /* #endregion hero */
 /* #region feature */
-.title-ethics,
-.team-title,
-.portfolio-title {
+.title-ethics {
   font-weight: 700;
   font-size: 36px;
   line-height: 1.11;
@@ -103,9 +101,21 @@ a {
 }
 
 /* #endregion feature */
-/* #region our team */
+/* #region our team 3 */
 .team-section {
   background-color: #f4f4fd;
+}
+.team-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+.team-list-item {
+  background-color: #fff;
 }
 .team-cards-title {
   font-weight: 500;
@@ -122,10 +132,18 @@ a {
   text-align: center;
   color: #434455;
 }
-/* #endregion our team */
-/* #region portfolio */
-
-/* #endregion portfolio */
+/* #endregion our team 3 */
+/* #region portfolio 4 */
+.portfolio-title {
+  font-weight: 700;
+  font-size: 36px;
+  line-height: 1.11111;
+  letter-spacing: 0.02em;
+  text-align: center;
+  color: #2e2f42;
+  text-transform: capitalize;
+}
+/* #endregion portfolio 4 */
 /* #region footer */
 .page-footer {
   background-color: #2e2f42;
